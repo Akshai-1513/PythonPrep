@@ -8,4 +8,3 @@ class Solution:
         for i in range(k,len(nums)):
             nums[i] = "_"
         return k
-   
